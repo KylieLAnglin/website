@@ -16,10 +16,10 @@ role = "PhD Candidate"
 organizations = [{name = "NAEd/Spencer Dissertation Fellow", url = "https://naeducation.org/2020-naed-spencer-dissertation-fellows/"}, { name = "EdPolicyWorks at the University of Virginia", url = "https://curry.virginia.edu/faculty-research/centers-labs-projects/edpolicyworks" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include the role of the state in regulating public education, using new tools to collect data on local policy variations, and improving designs for causal inference"
+bio = "My research develops data science methods for conducting implementation research in field settings, as well as improving the causal validity and replicability of impact estimates."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "kal3nh@virginia.edu"
+email = "kylielanglin@virginia.edu"
 
 # List (academic) interests or hobbies
 interests = [
@@ -61,9 +61,9 @@ interests = [
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  # icon = "envelope"
-  # icon_pack = "fas"
-  # link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+   icon = "envelope"
+   icon_pack = "fas"
+   link = "mailto:kylielanglin@virginia.edu"
 
 [[social]]
   icon = "twitter"
