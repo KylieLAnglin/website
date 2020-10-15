@@ -5,7 +5,7 @@ abstract = "Given the widespread use of nonexperimental (NE) methods for assessi
 date = "2018-10-15"
 image_preview = ""
 math = false
-publication = "*Evaluation Review, 42(2)*, 147–175. https://doi.org/10.1177/0193841X18776870"
+publication = "Wong, V. C., Steiner, P. M. & **Anglin, K. L.** (2018). What Can Be Learned from Empirical Evaluations of Nonexperimental Methods? *Evaluation Review*, 42(2), 147–175. https://doi.org/10.1177/0193841X18776870"
 url_code = ""
 url_dataset = ""
 #url_pdf = "pdf/my-paper-name.pdf"
@@ -19,7 +19,7 @@ featured = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["causal inference", "replication"]
 categories = []
 
 # Featured image

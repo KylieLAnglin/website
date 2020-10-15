@@ -5,7 +5,7 @@ abstract = "Since the start of the War on Poverty in the 1960s, social scientist
 date = 2019-01-20
 image_preview = ""
 math = false
-publication = "Anglin, K. L., Krishnamachari, A. & Wong, V. C. (2020). Methodological Approaches for Impact Evaluation in Educational Settings. In Oxford Bibliographies in Education. New York: Oxford University Press."
+publication = "**Anglin, K. L.**, Krishnamachari, A. & Wong, V. C. (2020). Methodological Approaches for Impact Evaluation in Educational Settings. In Oxford Bibliographies in Education. New York: Oxford University Press."
 url_code = ""
 url_dataset = ""
 #url_pdf = "pdf/my-paper-name.pdf"
@@ -19,7 +19,7 @@ featured = true
 
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["causal inference"]
 categories = []
 
 # Featured image
