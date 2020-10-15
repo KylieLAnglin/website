@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Student in Education Policy"
+role = "PhD Candidate"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "EdPolicyWorks at the University of Virginia", url = "https://curry.virginia.edu/faculty-research/centers-labs-projects/edpolicyworks" } ]
+organizations = [{name = "NAEd/Spencer Dissertation Fellow", url = "https://naeducation.org/2020-naed-spencer-dissertation-fellows/"}, { name = "EdPolicyWorks at the University of Virginia", url = "https://curry.virginia.edu/faculty-research/centers-labs-projects/edpolicyworks" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include the role of the state in regulating public education, using new tools to collect data on local policy variations, and improving designs for causal inference"
@@ -23,10 +23,11 @@ email = "kal3nh@virginia.edu"
 
 # List (academic) interests or hobbies
 interests = [
-  "Education Regulation",
-  "Causal Inference",
-  "Effect Heterogeneity and Implementation",
-  "Natural Language Processing"
+ "causal inference",
+ "data science",
+ "replication",
+ "implementation and effect heterogeneity",
+ "natural language processing"
 ]
 
 # Organizational groups that you belong to (for People widget)
