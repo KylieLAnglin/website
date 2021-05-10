@@ -3,6 +3,6 @@
 
 # Kylie Anglin's personal website
 
-This is the repo for my personal website, [kylieanglin.com](kylieanglin.com). It is built using the Academic theme for Hugo and deployed via Netlify. Any commit to the master branch kicks off a deploy of the live site via Netlify's CDN.
+This is the repo for my personal website, [kylieanglin.com](kylieanglin.com). It is built using the Academic theme for Hugo and deployed via Netlify (see [here](https://github.com/wowchemy/starter-academic) for starter website). Any commit to the master branch kicks off a deploy of the live site via Netlify's CDN.
 
 I mostly like to edit this website using Gitpod -- the button at the top will launch a development environment complete with local deployment of the site for testing changes.
