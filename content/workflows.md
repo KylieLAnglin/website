@@ -11,9 +11,9 @@ I organize articles and their corresponding references using Zotero and Zotfile,
 ![All Papers Folder](/img/all_papers_folder.png)
 
 ## Notes
-I like to take notes on articles and books using the [Zettlr](https://www.zettlr.com/) and Zettlekasten philosphy laid out in [*How to Take Smart Notes*](https://bookshop.org/books/how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-for-students-academics-and-nonfiction-book-writers/9781542866507). The key idea behind a Zettelkasten is that notes should be atomic (hold one idea at a time) and should connect to other notes. There are lots of benefits of this system for academics (which many people describe in depth), but one key benefit is that it is very easy to find all of the notes you've written on a single topic.
+I take notes on articles and books using [Zettlr](https://www.zettlr.com/) and the Zettlekasten philosphy laid out in [*How to Take Smart Notes*](https://bookshop.org/books/how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-for-students-academics-and-nonfiction-book-writers/9781542866507). The key idea behind a Zettelkasten is that notes should be atomic (hold one idea at a time) and should connect to other notes. There are lots of benefits of this system for academics (which many people describe in depth), but one key benefit is that it is very easy to find all of the notes you've written on a single topic.
 
-I implement my Zettlekasten using Zettlr and Markdown files. Using Markdown files (rather than a notetaking software like Evernote) means that my notes can be opened on any computer using any software that reads plain text. Zettlr also works very nicely with Zotero (see [here](https://docs.zettlr.com/en/academic/citations/).
+I implement my Zettlekasten using Zettlr and Markdown files. Using Markdown files (rather than a notetaking software like Evernote) means that my notes can be opened on any computer using any software that reads plain text. Zettlr also works very nicely with Zotero (see [here](https://docs.zettlr.com/en/academic/citations/)).
 
 ![Example Note](/img/example_note.png)
 
