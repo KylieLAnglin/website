@@ -8,11 +8,14 @@ I've outlined below some of my favorite tools and workflows for researchers. The
 ## Reference and PDF Manager 
 I organize articles and their corresponding references using Zotero and Zotfile, following the advice laid out [here](https://www.nrel.colostate.edu/set-up-best-reference-manager/). Together, Zotero and Zotfile allow you to download academic articles, automatically rename them according to a set format, and store them in Dropbox (or some other cloud service) with just a few clicks. I save articles in a single folder within Dropbox and then use Zotero's tags and search function to find the article I need (rather than relying on folder structure to organize articles by themes). 
 
-![All Papers Folder](/all_papers_folder.png)
+![All Papers Folder](/img/all_papers_folder.png)
 
 ## Notes
-I like to take notes on articles and books using the [Zettlr](https://www.zettlr.com/) and Zettlekasten philosphy laid out in [*How to Take Smart Notes*](https://bookshop.org/books/how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-for-students-academics-and-nonfiction-book-writers/9781542866507). The key idea behind a Zettelkasten is that notes should be atomic (hold one idea at a time) and should connect to other notes. There are lots of benefits of this system for acadmics (which many people describe in depth), but one key benefit is that it is very easy to find all of the notes you've taken on a single topic.
+I like to take notes on articles and books using the [Zettlr](https://www.zettlr.com/) and Zettlekasten philosphy laid out in [*How to Take Smart Notes*](https://bookshop.org/books/how-to-take-smart-notes-one-simple-technique-to-boost-writing-learning-and-thinking-for-students-academics-and-nonfiction-book-writers/9781542866507). The key idea behind a Zettelkasten is that notes should be atomic (hold one idea at a time) and should connect to other notes. There are lots of benefits of this system for academics (which many people describe in depth), but one key benefit is that it is very easy to find all of the notes you've written on a single topic.
 
-I implement my Zettlekasten using Zettlr and Markdown files. Using Markdown files (rather than a notetaking software like Evernote) means that my notes can be opened on any computer using any software that reads plain text. Zettlr also works nicely with Zotero (see [here](https://docs.zettlr.com/en/academic/citations/) for how to set them up).
+I implement my Zettlekasten using Zettlr and Markdown files. Using Markdown files (rather than a notetaking software like Evernote) means that my notes can be opened on any computer using any software that reads plain text. Zettlr also works very nicely with Zotero (see [here](https://docs.zettlr.com/en/academic/citations/).
 
-![Example Note](/example_note.png)
+![Example Note](/img/example_note.png)
+
+## To Do Lists
+I use [Omnifocus](https://www.omnigroup.com/omnifocus/) to keep track of projects and tasks, following the philosophy laid out in [*Getting Things Done*](https://bookshop.org/books/getting-things-done-the-art-of-stress-free-productivity-ab00c26e-b599-4650-97de-d3d54a788ef6/9780143126560).  
