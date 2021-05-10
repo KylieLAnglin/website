@@ -26,6 +26,6 @@
   weight = 40
 
 [[main]]
-  name = "Resrouces for Graduate Students"
-  url = "#workflows"
+  name = "Resources for Graduate Students"
+  url = "workflows/"
   weight = 50
