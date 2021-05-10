@@ -13,7 +13,7 @@ role = "Assistant Professor (starting Fall 2021)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [{name = U"niversity of Connecticut, Neag School of Education, Department of Educational Psychology", url = "https://epsy.education.uconn.edu/"} {name = "NAEd/Spencer Dissertation Fellow", url = "https://naeducation.org/2020-naed-spencer-dissertation-fellows/"}, { name = "EdPolicyWorks at the University of Virginia", url = "https://curry.virginia.edu/faculty-research/centers-labs-projects/edpolicyworks" } ]
+organizations = [{name = "University of Connecticut, Neag School of Education, Department of Educational Psychology", url = "https://epsy.education.uconn.edu/"} {name = "NAEd/Spencer Dissertation Fellow", url = "https://naeducation.org/2020-naed-spencer-dissertation-fellows/"}, { name = "EdPolicyWorks at the University of Virginia", url = "https://curry.virginia.edu/faculty-research/centers-labs-projects/edpolicyworks" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research develops data science methods for conducting implementation research in field settings, as well as for improving the causal validity and replicability of impact estimates."
