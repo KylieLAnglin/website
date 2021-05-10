@@ -15,7 +15,7 @@ I take notes on articles and books using [Zettlr](https://www.zettlr.com/) and t
 
 I implement my Zettlekasten using Zettlr and Markdown files. Using Markdown files (rather than a notetaking software like Evernote) means that my notes can be opened on any computer using any software that reads plain text. Zettlr also works very nicely with Zotero (see [here](https://docs.zettlr.com/en/academic/citations/)).
 
-For reference, I've included a screenshot of an example note below. Each hyperlink (denoted in green) links to a related note held in the same folder. Zettle easily allows you to navigate those links in order to connect ideas. You can also see tags (which help with search), citations (handled by Zotero), and note title with a permanent unique ID (so that notes can be edited without breaking any links to other notes - this is explained in depth in the Zettlr documentation). 
+For reference, I've included a screenshot of an example note below. Each hyperlink (denoted in green) links to a related note held in the same folder. Zettlr easily allows you to navigate those links in order to connect ideas. You can also see tags (which help with search), citations (handled by Zotero), and note title with a permanent unique ID (so that notes can be edited without breaking any links to other notes - this is explained in depth in the Zettlr documentation). 
 
 ![Example Note](/img/example_note.png)
 
