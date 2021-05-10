@@ -20,4 +20,4 @@ For reference, I've included a screenshot of an example note below. Each hyperli
 ![Example Note](/img/example_note.png)
 
 ## To Do Lists
-I use [Omnifocus](https://www.omnigroup.com/omnifocus/) to keep track of projects and tasks, following the philosophy laid out in [*Getting Things Done*](https://bookshop.org/books/getting-things-done-the-art-of-stress-free-productivity-ab00c26e-b599-4650-97de-d3d54a788ef6/9780143126560).  
+I use [Omnifocus](https://www.omnigroup.com/omnifocus/) to keep track of projects and tasks, following the philosophy laid out in [*Getting Things Done*](https://bookshop.org/books/getting-things-done-the-art-of-stress-free-productivity-ab00c26e-b599-4650-97de-d3d54a788ef6/9780143126560). Omnifocus isn't free, but I found it useful enough that it was worth the one-time cost.   
