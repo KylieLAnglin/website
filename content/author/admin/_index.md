@@ -9,24 +9,25 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "PhD Candidate"
+role = "Assistant Professor (starting Fall 2021)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [{name = "NAEd/Spencer Dissertation Fellow", url = "https://naeducation.org/2020-naed-spencer-dissertation-fellows/"}, { name = "EdPolicyWorks at the University of Virginia", url = "https://curry.virginia.edu/faculty-research/centers-labs-projects/edpolicyworks" } ]
+organizations = [{name = U"niversity of Connecticut, Neag School of Education, Department of Educational Psychology", url = "https://epsy.education.uconn.edu/"} {name = "NAEd/Spencer Dissertation Fellow", url = "https://naeducation.org/2020-naed-spencer-dissertation-fellows/"}, { name = "EdPolicyWorks at the University of Virginia", url = "https://curry.virginia.edu/faculty-research/centers-labs-projects/edpolicyworks" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research develops data science methods for conducting implementation research in field settings, as well as improving the causal validity and replicability of impact estimates."
+bio = "My research develops data science methods for conducting implementation research in field settings, as well as for improving the causal validity and replicability of impact estimates."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "kylielanglin@virginia.edu"
 
 # List (academic) interests or hobbies
 interests = [
+ "implementation",
  "causal inference",
  "data science",
  "replication",
- "implementation and effect heterogeneity",
+ "effect heterogeneity",
  "natural language processing"
 ]
 
@@ -38,7 +39,7 @@ interests = [
 [[education.courses]]
   course = "PhD in Education Policy Evaluation"
   institution = "University of Virginia"
-  year = "2021 (expected)"
+  year = 2021
 
 [[education.courses]]
   course = "Masters in Public Policy"
@@ -88,9 +89,9 @@ interests = [
   link = "files/cv.pdf"
 
 +++
-I am an evaluation methodologist committed to helping researchers identify effective educational programs and policies. 
+I am a methodologist committed to helping researchers identify effective educational programs and policies. 
 
-My research develops data science methods for conducting implementation research in field settings, as well as improving the causal validity and replicability of impact estimates. In recent research, I developed efficient methods for collecting local policy data from school district websites and for measuring fidelity in standardized educational interventions. Currently, I am testing the validity of specification tests in repeated measures designs and training a classifier to identify features of quality collaboration in teacher coaching interventions. 
+My research develops methods for efficiently monitoring and analyzing program implementation in field settings using data science techniques, as well as methods for improving the causal validity and replicability of impact estimates. In recent research, I developed scalable methods for collecting local policy data from school district websites and for measuring fidelity in standardized educational interventions. Currently, I am also testing the validity of specification tests in repeated measures designs and training a series of classifiers to identify features of quality collaboration in teacher coaching interventions. 
 
-I became interested in evaluation and implementation at my first job out of college teaching middle schoolers in the Mississippi Delta. As a teacher, I wanted to know what programs would work for *my* students and *my* circumstances, not the average student in the average circumstances. Today, I address these questions by helping researchers address variation in implementation, ensuring that average outcomes do not hide inequalities.
+I became interested in evaluation and implementation at my first job out of college teaching middle schoolers in the Mississippi Delta. As a teacher, I wanted to know what programs would work for *my* students and *my* circumstances, not the average student in the average circumstances. Today, I address these questions by helping researchers identify causally valid program impacts while paying attention to variation in implementation, ensuring that average outcomes do not hide inequalities.
 
