@@ -9,26 +9,27 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Assistant Professor (starting Fall 2021)"
+role = "Assistant Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [{name = "University of Connecticut, Department of Educational Psychology", url = "https://epsy.education.uconn.edu/"}, {name = "NAEd/Spencer Dissertation Fellow", url = "https://naeducation.org/2020-naed-spencer-dissertation-fellows/"}, { name = "EdPolicyWorks at the University of Virginia", url = "https://curry.virginia.edu/faculty-research/centers-labs-projects/edpolicyworks" } ]
+organizations = [{name = "University of Connecticut, Department of Educational Psychology", url = "https://epsy.education.uconn.edu/"}
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research develops data science methods for conducting implementation research in field settings, as well as for improving the causal validity and replicability of impact estimates."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "kylielanglin@virginia.edu"
+email = "kylie.anglin@uconn.edu"
 
 # List (academic) interests or hobbies
 interests = [
  "implementation",
- "causal inference",
  "data science",
+ "natural language processing",
  "replication",
  "effect heterogeneity",
- "natural language processing"
+"causal inference",
+
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -64,7 +65,7 @@ interests = [
 [[social]]
    icon = "envelope"
    icon_pack = "fas"
-   link = "mailto:kylielanglin@virginia.edu"
+   link = "mailto:kylie.angin@uconn.edu"
 
 [[social]]
   icon = "twitter"
@@ -74,7 +75,7 @@ interests = [
 [[social]]
   # icon = "google-scholar"
   # icon_pack = "ai"
-  # @ link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  # @ link = "https://scholar.google.com/citations?user=vowl-BoAAAAJ&hl=en"
 
 [[social]]
   icon = "github"
