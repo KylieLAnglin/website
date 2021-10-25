@@ -13,7 +13,7 @@ role = "Assistant Professor"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [{name = "University of Connecticut, Department of Educational Psychology", url = "https://epsy.education.uconn.edu/"}
+organizations = [{name = "University of Connecticut, Department of Educational Psychology", url = "https://epsy.education.uconn.edu/"}]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research develops data science methods for conducting implementation research in field settings, as well as for improving the causal validity and replicability of impact estimates."
