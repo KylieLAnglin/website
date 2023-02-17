@@ -67,10 +67,6 @@ interests = [
    icon_pack = "fas"
    link = "mailto:kylie.angin@uconn.edu"
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/kylielanglin"
 
 [[social]]
   # icon = "google-scholar"

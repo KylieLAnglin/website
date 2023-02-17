@@ -29,3 +29,8 @@
   name = "Resources for Graduate Students"
   url = "workflows/"
   weight = 50
+
+[[main]]
+  name = "OAMM"
+  url = "files/OAMM_TeacherFlyer3.3.pdf"
+  weight = 50
