@@ -38,7 +38,7 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Education Policy Evaluation"
+  course = "PhD in Education Policy"
   institution = "University of Virginia"
   year = 2021
 
@@ -86,20 +86,15 @@ interests = [
   link = "files/cv.pdf"
 
 +++
-I am a methodologist committed to helping researchers identify effective educational programs and policies. 
+I am an assistant professor of research methods, measurement, and evaluation currently at the Neag School of Education at the University of Connecticut. As an educational methodologist, I am committed to identifying effective educational programs and policies. 
 
-My research develops methods for efficiently monitoring and analyzing program implementation in field settings using data science techniques, as well as methods for improving the causal validity and replicability of impact estimates. In recent research, I developed scalable methods for collecting local policy data from school district websites and for measuring fidelity in standardized educational interventions. Currently, I am also testing the validity of specification tests in repeated measures designs and training a series of classifiers to identify features of quality collaboration in teacher coaching interventions. 
+My research interests center on identifying effective educational programs and policies and using data science tools such as natural language processing to better understand the implementation of educational programs at the local level, at scale. 
 
-I became interested in evaluation and implementation at my first job out of college teaching middle schoolers in the Mississippi Delta. As a teacher, I wanted to know what programs would work for *my* students and *my* circumstances, not the average student in the average circumstances. Today, I address these questions by helping researchers identify causally valid program impacts while paying attention to variation in implementation, ensuring that average outcomes do not hide inequalities.
+**I am currently taking on PhD students. Please email me and/or [apply](https://rmme.education.uconn.edu/how-to-apply-m-a-and-ph-d-programs/) if you are interested.**
 
-Selected Publications:
 
-Anglin, K. L., Wong, V. C., & Boguslav, A. (2021). A Natural Language Processing Approach to Measuring Treatment Adherence and Consistency Using Semantic Similarity. AERA Open, 7. https://doi.org/10.1177/23328584211028615
+In recent research, I developed scalable methods for [collecting local policy data](https://doi.org/10.1080/19345747.2019.1654576) from school district websites and used that data to estimate the impact of widescale [deregulation](https://doi.org/10.3102/01623737231176509) of school districts. I have also developed methods for [measuring fidelity](https://doi.org/10.1177/23328584211028615) in standardized educational interventions and for improving [training data](https://doi.org/10.6339/22-JDS1054) used to train machine learning classifiers. You can see a complete list of my publications [here](https://scholar.google.com/citations?user=vowl-BoAAAAJ&hl=en). 
 
-Anglin, K. L. (2019). Gather-Narrow-Extract: A Framework for Studying Local Policy Variation Using Web-Scraping and Natural Language Processing. Journal of Research on Educational Effectiveness, 12(4), 685–706. https://doi.org/10.1080/19345747.2019.1654576
 
-Wong, V. C., Anglin, K., & Steiner, P. M. (2021). Design-Based Approaches to Causal Replication Studies. Prevention Science. https://doi.org/10.1007/s11121-021-01234-7
+I became interested in evaluation and implementation when teaching middle schoolers. As a teacher, I wanted to know what programs would work for *my* students and *our* circumstances, not the average student in the average circumstances. Today, I address these questions by helping researchers identify causally valid program impacts while paying attention to variation in implementation, ensuring that average outcomes do not hide inequalities.
 
-Steiner, P. M., Wong, V. C., & Anglin, K. L. (2019). A Causal Replication Framework for Designing and Assessing Replication Efforts. Zeitschrift Für Psychologie / Journal of Psychology, 227(4), 280–292. https://doi.org/10.1027/2151-2604/a000385
-
-Wong, V. C., Steiner, P. M., & Anglin, K. L. (2018). What Can Be Learned From Empirical Evaluations of Nonexperimental Methods? Evaluation Review, 42(2), 147–175. https://doi.org/10.1177/0193841X18776870
